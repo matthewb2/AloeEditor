@@ -1,4 +1,4 @@
-<img width="786" height="593" alt="Image" src="https://github.com/user-attachments/assets/4d157303-47e3-4c7d-bce9-54d165de5c88" />
+<img width="757" height="604" alt="image" src="https://github.com/user-attachments/assets/cedddf82-b699-4e70-b460-5ddc46723e31" />
 
 # 알로에 에디터
 
@@ -19,3 +19,4 @@ npm run dev
 npm run build
 npm run dist
 ```
+
